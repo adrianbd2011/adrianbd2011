@@ -2,7 +2,7 @@
 
 **Mathematics undergraduate · Quantitative Research · Optimization · Machine Learning · Algorithms**
 
-I'm building a strong foundation in mathematics and software engineering, with particular interest in stochastic processes, numerical methods, optimization, and quantitative finance.
+I'm building a strong foundation in mathematics and software engineering, with particular interest in stochastic processes, numerical methods, optimization, machine learning and quantitative finance.
 
 **Portfolio:** [adrianbd2011.github.io](https://adrianbd2011.github.io)  
 **GitHub:** [@adrianbd2011](https://github.com/adrianbd2011)
